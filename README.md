@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @Diego-J-Sena
+- 👀 I’m interested in DSP, Control and Embbedded Systems, and Aerospace
+
 <!--
 **Diego-J-Sena/Diego-J-Sena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
