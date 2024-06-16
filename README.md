@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @Diego-J-Sena
+- 👋 Hi, I’m Diego Sena
+- 🎓 I graduated from University of Colorado Boulder, with a BS in Electrical and Computer Engineering
 - 👀 I’m interested in DSP, Control and Embbedded Systems, and Aerospace
 
 <!--
